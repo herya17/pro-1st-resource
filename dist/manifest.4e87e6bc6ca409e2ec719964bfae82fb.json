@@ -1,0 +1,48 @@
+{
+  "icons": [
+    {
+      "src": "/images/icons/maskable/icon_1024x1024.d28a915cb9e64a90d5f4edf6b509ba0a.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/images/icons/ios/icon_512x512.451da15a84304d2322a277d2dfc0700f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/ios/icon_384x384.af71b2c677105615243769196490c68f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/ios/icon_256x256.dd50467d6c8a3b3ad77fbef887fe2860.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/ios/icon_192x192.8c0020b215515c6d277742e722adb828.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/ios/icon_128x128.d5462345efabe7a4dadd45483742e078.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/ios/icon_96x96.1c3ae7e310b4fc21ee4daae1d897d7a5.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Heryapro 1st",
+  "short_name": "Heryapro 1st",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Heryapro - Pro 1st",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
